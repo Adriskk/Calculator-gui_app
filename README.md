@@ -10,6 +10,11 @@ Calculator has main functions like:
 - sum numbers,
 - percent of the number
 
+# ICON AUTHOR
+Icon used in app isn't my authority
+Real author:
+https://commons.wikimedia.org/wiki/File:GNOME_Calculator_icon_2018.svg
+
 # REQUIREMENTS.TXT FILE
 Type:
 pip install -r requirements.txt
